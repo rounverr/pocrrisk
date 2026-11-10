@@ -2,8 +2,7 @@
 
 <img src="./assets/rrisk-header.png" alt="RRISK - Rounver" width="280" />
 
-# RRISK
-### Natural-language risk alerts · Proof of Concept
+### RRISK | Natural-language risk alerts · Proof of Concept
 
 **Rounver · Experimental project · February 2025**
 
