@@ -7,7 +7,7 @@
 
 ![Status](https://img.shields.io/badge/status-experimental-amber)
 ![Language](https://img.shields.io/badge/language-Python-3776AB)
-![License](https://img.shields.io/badge/license-proprietary-444444)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 **[English](#english) · [Español](#español)**
 
@@ -103,7 +103,9 @@ The script starts Flask with `debug=True`. **Do not expose it to the public inte
 
 It preserves an early Rounver experiment in **natural-language automation and AI-provider fallback**. The value here is the idea and its history, not a reusable production service.
 
-**Ownership and licensing:** © 2025–2026 Rounver Corp. See [`licence.md`](./licence.md) for the current proprietary terms. Earlier revisions published under the MIT license remain subject to their original applicable grants.
+**License:** Released under the [MIT License](./LICENSE). Copyright © 2025–2026 Rounver Corp. You may use, modify, and redistribute this proof of concept, including commercially, subject to the license terms. The code is provided as-is, without warranties or a commitment to support.
+
+**Feedback and maintenance:** [GitHub Issues](https://github.com/rounverr/pocrrisk/issues) are welcome for reporting problems or suggesting improvements. The official repository is maintained exclusively by Rounver; external pull requests and code contributions are not accepted. See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
@@ -195,7 +197,9 @@ El script ejecuta Flask con `debug=True`: **no debe exponerse a Internet**. No h
 
 Documenta una exploración temprana de Rounver sobre **automatización mediante lenguaje natural y alternativas entre proveedores de IA**. Su valor es histórico y conceptual; no constituye un servicio listo para reutilizar.
 
-**Titularidad y licencia:** © 2025–2026 Rounver Corp. Consultar [`licence.md`](./licence.md) para los términos propietarios actuales. Las revisiones anteriores publicadas bajo MIT conservan las autorizaciones concedidas por dicha licencia.
+**Licencia:** Publicado bajo la [Licencia MIT](./LICENSE). Copyright © 2025–2026 Rounver Corp. Se permite usar, modificar y redistribuir esta prueba de concepto, incluso comercialmente, conforme a la licencia. El código se entrega tal cual, sin garantías ni compromiso de soporte.
+
+**Comentarios y mantenimiento:** Se pueden abrir [GitHub Issues](https://github.com/rounverr/pocrrisk/issues) para informar problemas o proponer mejoras. El repositorio oficial lo mantiene exclusivamente Rounver; no se aceptan pull requests ni contribuciones de código externas. Consultar [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
