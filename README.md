@@ -104,6 +104,8 @@ The script starts Flask with `debug=True`. **Do not expose it to the public inte
 
 It preserves an early Rounver experiment in **natural-language automation and AI-provider fallback**. The value here is the idea and its history, not a reusable production service.
 
+**Author:** Sil R. Galeano
+
 **License:** Released under the [MIT License](./LICENSE). Copyright © 2025–2026 Rounver Corp. You may use, modify, and redistribute this proof of concept, including commercially, subject to the license terms. The code is provided as-is, without warranties or a commitment to support.
 
 **Feedback and maintenance:** [GitHub Issues](https://github.com/rounverr/pocrrisk/issues) are welcome for reporting problems or suggesting improvements. The official repository is maintained exclusively by Rounver; external pull requests and code contributions are not accepted. See [CONTRIBUTING.md](./CONTRIBUTING.md).
@@ -197,6 +199,8 @@ El script ejecuta Flask con `debug=True`: **no debe exponerse a Internet**. No h
 ### ¿Por qué conservarlo?
 
 Documenta una exploración temprana de Rounver sobre **automatización mediante lenguaje natural y alternativas entre proveedores de IA**. Su valor es histórico y conceptual; no constituye un servicio listo para reutilizar.
+
+**Autora:** Sil R. Galeano
 
 **Licencia:** Publicado bajo la [Licencia MIT](./LICENSE). Copyright © 2025–2026 Rounver Corp. Se permite usar, modificar y redistribuir esta prueba de concepto, incluso comercialmente, conforme a la licencia. El código se entrega tal cual, sin garantías ni compromiso de soporte.
 
